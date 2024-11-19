@@ -5,11 +5,6 @@ Lightweight and fast file tree for Android
 [![](https://jitpack.io/v/RohitKushvaha01/FileTree.svg)](https://jitpack.io/#RohitKushvaha01/FileTree)
 
 
-## Depricated
-
-This FileTree is no longer maintained in favour of 
-https://github.com/dingyi222666/TreeView
-
 
 ## Overview
 
